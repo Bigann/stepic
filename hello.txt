@@ -1,8 +1,5 @@
-hello
-word
-hello everybady
-
-
-hello my dear friend
-
-hi
+hello;
+word;
+hello everybady;
+hello my dear friend;
+hi;
